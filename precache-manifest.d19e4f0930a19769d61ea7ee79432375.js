@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/logo-nural.b75909ce.png"
   },
   {
-    "revision": "a5d92d44bd3e7386ae29",
+    "revision": "e928ffd9bf4664feaf10",
     "url": "/static/css/main.85b26f0a.chunk.css"
   },
   {
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/static/media/logo-glyco.b2c40904.png"
   },
   {
-    "revision": "a5d92d44bd3e7386ae29",
-    "url": "/static/js/main.a5d92d44.chunk.js"
+    "revision": "e928ffd9bf4664feaf10",
+    "url": "/static/js/main.e928ffd9.chunk.js"
   },
   {
     "revision": "e367331ad4f4e086ba7473808578b990",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/static/media/bg4.231860eb.jpg"
   },
   {
-    "revision": "5463d1172b18f9b6828fb7992f711c95",
+    "revision": "f37069479158e99e22d0e04daf6e5655",
     "url": "/index.html"
   }
 ];
