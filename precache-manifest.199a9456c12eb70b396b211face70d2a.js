@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/logo-nural.b75909ce.png"
   },
   {
-    "revision": "bdfe6d27064d83663f22",
+    "revision": "422c326af9833498d209",
     "url": "/static/css/main.85b26f0a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.42ac5946.js"
   },
   {
-    "revision": "9eed136b0797bd1a7889",
-    "url": "/static/js/2.9eed136b.chunk.js"
+    "revision": "38b9157e7b478264f331",
+    "url": "/static/js/2.38b9157e.chunk.js"
   },
   {
     "revision": "db6c83343c67f7e83f518b68023897ad",
@@ -44,8 +44,8 @@ self.__precacheManifest = [
     "url": "/static/media/logo-glyco.b2c40904.png"
   },
   {
-    "revision": "bdfe6d27064d83663f22",
-    "url": "/static/js/main.bdfe6d27.chunk.js"
+    "revision": "422c326af9833498d209",
+    "url": "/static/js/main.422c326a.chunk.js"
   },
   {
     "revision": "e367331ad4f4e086ba7473808578b990",
@@ -88,7 +88,7 @@ self.__precacheManifest = [
     "url": "/static/media/bg4.231860eb.jpg"
   },
   {
-    "revision": "b856938a93e1ecaa00c099bbc407d0ca",
+    "revision": "74757ff0695edf9e1eb21e9a17ace9f5",
     "url": "/index.html"
   }
 ];
